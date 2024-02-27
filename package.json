@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "mongodb": "^6.3.0",
+    "react-places-autocomplete": "^7.3.0"
+  }
+}
